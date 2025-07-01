@@ -1,4 +1,4 @@
-project = 'Erro Router'
+project = 'Eero Router'
 author = 'Your Name'
 release = '1.0'
 
