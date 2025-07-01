@@ -5,7 +5,7 @@ How to Contact Eero Router?
 
 If you're facing issues with your Erro router or simply need assistance, knowing how to contact erro router support is essential. Erro routers are known for their ease of use and high-speed connectivity, but like any technology, they may occasionally require technical assistance or troubleshooting. This guide will walk you through the different ways to get help and interact with erro router customer support without the use of phone numbers or hyperlinks.
 
-.. image:: clisk-here.gif
+.. image:: click-here.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
